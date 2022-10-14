@@ -1,12 +1,20 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import React from "react";
+import ReactDOM from "react-dom";
+import "./index.css";
+import "./panes.css";
+import reportWebVitals from "./reportWebVitals";
+import {GardenPlannerApp} from "./components/GardenPlannerApp/GardenPlannerApp";
+import {crawlFfxivGardening} from "./tools/crawlFfxivGardening"
+import {crawlXivdb} from "./tools/crawlXivdb"
+
+// @ts-ignore
+window.crawlFfxivGardening = crawlFfxivGardening;
+// @ts-ignore
+window.crawlXivdb = crawlXivdb;
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+      <GardenPlannerApp />
   </React.StrictMode>,
   document.getElementById('root')
 );

@@ -1,0 +1,1845 @@
+[
+  {
+    "category": "HerbAndNut",
+    "name": "Ala Mhigan Mustard",
+    "ffxivGardeningId": 13,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      1,
+      4,
+      6,
+      12
+    ],
+    "cropYield": [
+      12,
+      15,
+      18,
+      24
+    ]
+  },
+  {
+    "category": "Minion",
+    "name": "Allagan Melon",
+    "ffxivGardeningId": 93,
+    "growTime": 7,
+    "wiltTime": 24,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "category": "HerbAndNut",
+    "name": "Almond",
+    "ffxivGardeningId": 22,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      1,
+      4,
+      6,
+      12
+    ],
+    "cropYield": [
+      12,
+      15,
+      18,
+      24
+    ]
+  },
+  {
+    "category": "HerbAndNut",
+    "name": "Althyk Lavender",
+    "ffxivGardeningId": 70,
+    "growTime": 0.9166666666666666,
+    "wiltTime": null,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      2,
+      2,
+      3,
+      3
+    ]
+  },
+  {
+    "category": "DeluxeFruit",
+    "name": "Apricot",
+    "ffxivGardeningId": 28,
+    "growTime": 6,
+    "wiltTime": 36,
+    "seedYield": [
+      1,
+      2,
+      3,
+      5
+    ],
+    "cropYield": [
+      5,
+      6,
+      7,
+      10
+    ]
+  },
+  {
+    "category": "Flowerpot",
+    "name": "Arum",
+    "ffxivGardeningId": 88,
+    "growTime": 0.041666666666666664,
+    "wiltTime": null,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      2
+    ]
+  },
+  {
+    "category": "DeluxeHerbAndNut",
+    "name": "Azeyma Rose",
+    "ffxivGardeningId": 34,
+    "growTime": 6,
+    "wiltTime": 36,
+    "seedYield": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "category": "HerbAndNut",
+    "name": "Black Pepper",
+    "ffxivGardeningId": 8,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      12,
+      15,
+      18,
+      24
+    ]
+  },
+  {
+    "category": "Fruit",
+    "name": "Blood Currant",
+    "ffxivGardeningId": 21,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      1,
+      4,
+      6,
+      12
+    ],
+    "cropYield": [
+      12,
+      15,
+      18,
+      24
+    ]
+  },
+  {
+    "category": "DeluxeVegetable",
+    "name": "Blood Pepper",
+    "ffxivGardeningId": 65,
+    "growTime": 7,
+    "wiltTime": 24,
+    "seedYield": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "category": "Flowerpot",
+    "name": "Brightlily",
+    "ffxivGardeningId": 83,
+    "growTime": 0.041666666666666664,
+    "wiltTime": null,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      2
+    ]
+  },
+  {
+    "category": "DeluxeHerbAndNut",
+    "name": "Broombush",
+    "ffxivGardeningId": 43,
+    "growTime": 7,
+    "wiltTime": 24,
+    "seedYield": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "category": "Flowerpot",
+    "name": "Campanula",
+    "ffxivGardeningId": 91,
+    "growTime": 0.041666666666666664,
+    "wiltTime": null,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      2
+    ]
+  },
+  {
+    "category": "Flowerpot",
+    "name": "Carnation",
+    "ffxivGardeningId": 95,
+    "growTime": 0.041666666666666664,
+    "wiltTime": null,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      2
+    ]
+  },
+  {
+    "category": "HerbAndNut",
+    "name": "Chamomile",
+    "ffxivGardeningId": 14,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      12,
+      15,
+      18,
+      24
+    ]
+  },
+  {
+    "category": "DeluxeVegetable",
+    "name": "Chive",
+    "ffxivGardeningId": 67,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      1,
+      1,
+      1,
+      2
+    ],
+    "cropYield": [
+      2,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "category": "ChocoboFood",
+    "name": "Cieldalaes Pineapple",
+    "ffxivGardeningId": 63,
+    "growTime": 2,
+    "wiltTime": null,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      18,
+      23,
+      27,
+      36
+    ]
+  },
+  {
+    "category": "HerbAndNut",
+    "name": "Cloud Acorn",
+    "ffxivGardeningId": 80,
+    "growTime": 0.041666666666666664,
+    "wiltTime": null,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      5,
+      6,
+      7,
+      10
+    ]
+  },
+  {
+    "category": "DeluxeHerbAndNut",
+    "name": "Cloudsbreath",
+    "ffxivGardeningId": 84,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      2
+    ]
+  },
+  {
+    "category": "Vegetable",
+    "name": "Coerthan Carrot",
+    "ffxivGardeningId": 6,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      1,
+      4,
+      6,
+      12
+    ],
+    "cropYield": [
+      12,
+      15,
+      18,
+      24
+    ]
+  },
+  {
+    "category": "HerbAndNut",
+    "name": "Coerthan Tea",
+    "ffxivGardeningId": 69,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      3,
+      3,
+      4,
+      6
+    ]
+  },
+  {
+    "category": "Flowerpot",
+    "name": "Cosmos",
+    "ffxivGardeningId": 94,
+    "growTime": 0.041666666666666664,
+    "wiltTime": null,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      2
+    ]
+  },
+  {
+    "category": "ChocoboFood",
+    "name": "Curiel Root",
+    "ffxivGardeningId": 31,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      1,
+      3,
+      5,
+      9
+    ],
+    "cropYield": [
+      9,
+      11,
+      13,
+      18
+    ]
+  },
+  {
+    "category": "Flowerpot",
+    "name": "Dahlia",
+    "ffxivGardeningId": 87,
+    "growTime": 0.041666666666666664,
+    "wiltTime": null,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      2
+    ]
+  },
+  {
+    "category": "Flowerpot",
+    "name": "Daisy",
+    "ffxivGardeningId": 82,
+    "growTime": 0.041666666666666664,
+    "wiltTime": null,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      2
+    ]
+  },
+  {
+    "category": "DeluxeVegetable",
+    "name": "Dalamud Popoto Set",
+    "ffxivGardeningId": 54,
+    "growTime": 6,
+    "wiltTime": 36,
+    "seedYield": [
+      1,
+      2,
+      3,
+      5
+    ],
+    "cropYield": [
+      5,
+      6,
+      7,
+      10
+    ]
+  },
+  {
+    "category": "ChocoboFood",
+    "name": "Doman Plum",
+    "ffxivGardeningId": 59,
+    "growTime": 2,
+    "wiltTime": null,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      18,
+      23,
+      27,
+      36
+    ]
+  },
+  {
+    "category": "Vegetable",
+    "name": "Dzemael Tomato",
+    "ffxivGardeningId": 26,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      1,
+      4,
+      6,
+      12
+    ],
+    "cropYield": [
+      12,
+      15,
+      18,
+      24
+    ]
+  },
+  {
+    "category": "Elemental",
+    "name": "Earthlight",
+    "ffxivGardeningId": 76,
+    "growTime": 0.75,
+    "wiltTime": null,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      50,
+      65,
+      75,
+      100
+    ]
+  },
+  {
+    "category": "Minion",
+    "name": "Eggplant Knight",
+    "ffxivGardeningId": 47,
+    "growTime": 7,
+    "wiltTime": 24,
+    "seedYield": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "category": "Fruit",
+    "name": "Faerie Apple",
+    "ffxivGardeningId": 9,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      12,
+      15,
+      18,
+      24
+    ]
+  },
+  {
+    "category": "Elemental",
+    "name": "Firelight",
+    "ffxivGardeningId": 73,
+    "growTime": 0.75,
+    "wiltTime": null,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      50,
+      65,
+      75,
+      100
+    ]
+  },
+  {
+    "category": "HerbAndNut",
+    "name": "Garlic Cloves",
+    "ffxivGardeningId": 55,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      12,
+      15,
+      18,
+      24
+    ]
+  },
+  {
+    "category": "Minion",
+    "name": "Garlic Jester",
+    "ffxivGardeningId": 44,
+    "growTime": 7,
+    "wiltTime": 24,
+    "seedYield": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "category": "DeluxeFruit",
+    "name": "Glazenut",
+    "ffxivGardeningId": 49,
+    "growTime": 7,
+    "wiltTime": 24,
+    "seedYield": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "category": "ChocoboFood",
+    "name": "Gysahl Greens",
+    "ffxivGardeningId": 11,
+    "growTime": 3,
+    "wiltTime": 24,
+    "seedYield": [
+      1,
+      4,
+      6,
+      12
+    ],
+    "cropYield": [
+      12,
+      15,
+      18,
+      24
+    ]
+  },
+  {
+    "category": "DeluxeHerbAndNut",
+    "name": "Halone Gerbera",
+    "ffxivGardeningId": 40,
+    "growTime": 6,
+    "wiltTime": 36,
+    "seedYield": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "category": "ChocoboFood",
+    "name": "Han Lemon",
+    "ffxivGardeningId": 64,
+    "growTime": 2,
+    "wiltTime": null,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "category": "Fruit",
+    "name": "Honey Lemon",
+    "ffxivGardeningId": 25,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      1,
+      4,
+      6,
+      12
+    ],
+    "cropYield": [
+      12,
+      15,
+      18,
+      24
+    ]
+  },
+  {
+    "category": "Flowerpot",
+    "name": "Hyacinth",
+    "ffxivGardeningId": 92,
+    "growTime": 0.041666666666666664,
+    "wiltTime": null,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      2
+    ]
+  },
+  {
+    "category": "Flowerpot",
+    "name": "Hydrangea",
+    "ffxivGardeningId": 90,
+    "growTime": 0.041666666666666664,
+    "wiltTime": null,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      2
+    ]
+  },
+  {
+    "category": "Elemental",
+    "name": "Icelight",
+    "ffxivGardeningId": 74,
+    "growTime": 0.75,
+    "wiltTime": null,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      50,
+      65,
+      75,
+      100
+    ]
+  },
+  {
+    "category": "DeluxeHerbAndNut",
+    "name": "Jute",
+    "ffxivGardeningId": 42,
+    "growTime": 7,
+    "wiltTime": 24,
+    "seedYield": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "category": "ChocoboFood",
+    "name": "Krakka Root",
+    "ffxivGardeningId": 51,
+    "growTime": 3,
+    "wiltTime": 24,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      9,
+      11,
+      13,
+      18
+    ]
+  },
+  {
+    "category": "DeluxeVegetable",
+    "name": "La Noscean Leek",
+    "ffxivGardeningId": 36,
+    "growTime": 6,
+    "wiltTime": 36,
+    "seedYield": [
+      1,
+      2,
+      3,
+      5
+    ],
+    "cropYield": [
+      5,
+      6,
+      7,
+      10
+    ]
+  },
+  {
+    "category": "Vegetable",
+    "name": "La Noscean Lettuce",
+    "ffxivGardeningId": 5,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      12,
+      15,
+      18,
+      24
+    ]
+  },
+  {
+    "category": "Fruit",
+    "name": "La Noscean Orange",
+    "ffxivGardeningId": 1,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      12,
+      15,
+      18,
+      24
+    ]
+  },
+  {
+    "category": "HerbAndNut",
+    "name": "Lavender",
+    "ffxivGardeningId": 4,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      12,
+      15,
+      18,
+      24
+    ]
+  },
+  {
+    "category": "Elemental",
+    "name": "Levinlight",
+    "ffxivGardeningId": 77,
+    "growTime": 0.75,
+    "wiltTime": null,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      50,
+      65,
+      75,
+      100
+    ]
+  },
+  {
+    "category": "Flowerpot",
+    "name": "Lily of the Valley",
+    "ffxivGardeningId": 89,
+    "growTime": 0.041666666666666664,
+    "wiltTime": null,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      2
+    ]
+  },
+  {
+    "category": "HerbAndNut",
+    "name": "Linseed",
+    "ffxivGardeningId": 18,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      1,
+      4,
+      6,
+      12
+    ],
+    "cropYield": [
+      12,
+      15,
+      18,
+      24
+    ]
+  },
+  {
+    "category": "Fruit",
+    "name": "Lowland Grape",
+    "ffxivGardeningId": 2,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      12,
+      15,
+      18,
+      24
+    ]
+  },
+  {
+    "category": "ChocoboFood",
+    "name": "Mamook Pear",
+    "ffxivGardeningId": 60,
+    "growTime": 2,
+    "wiltTime": null,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      18,
+      23,
+      27,
+      36
+    ]
+  },
+  {
+    "category": "Minion",
+    "name": "Mandragora Queen",
+    "ffxivGardeningId": 45,
+    "growTime": 7,
+    "wiltTime": 24,
+    "seedYield": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "category": "HerbAndNut",
+    "name": "Mandrake",
+    "ffxivGardeningId": 20,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      1,
+      4,
+      6,
+      12
+    ],
+    "cropYield": [
+      12,
+      15,
+      18,
+      24
+    ]
+  },
+  {
+    "category": "HerbAndNut",
+    "name": "Midland Basil",
+    "ffxivGardeningId": 19,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      1,
+      4,
+      6,
+      12
+    ],
+    "cropYield": [
+      12,
+      15,
+      18,
+      24
+    ]
+  },
+  {
+    "category": "Vegetable",
+    "name": "Midland Cabbage",
+    "ffxivGardeningId": 17,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      1,
+      4,
+      6,
+      12
+    ],
+    "cropYield": [
+      12,
+      15,
+      18,
+      24
+    ]
+  },
+  {
+    "category": "Vegetable",
+    "name": "Millioncorn",
+    "ffxivGardeningId": 15,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      12,
+      15,
+      18,
+      24
+    ]
+  },
+  {
+    "category": "ChocoboFood",
+    "name": "Mimett Gourd",
+    "ffxivGardeningId": 32,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      1,
+      3,
+      5,
+      9
+    ],
+    "cropYield": [
+      9,
+      11,
+      13,
+      18
+    ]
+  },
+  {
+    "category": "Fruit",
+    "name": "Mirror Apple",
+    "ffxivGardeningId": 23,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      1,
+      4,
+      6,
+      12
+    ],
+    "cropYield": [
+      12,
+      15,
+      18,
+      24
+    ]
+  },
+  {
+    "category": "Flowerpot",
+    "name": "Moth Orchid",
+    "ffxivGardeningId": 96,
+    "growTime": 0.041666666666666664,
+    "wiltTime": null,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      2
+    ]
+  },
+  {
+    "category": "DeluxeHerbAndNut",
+    "name": "Nymeia Lily",
+    "ffxivGardeningId": 41,
+    "growTime": 6,
+    "wiltTime": 36,
+    "seedYield": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "category": "ChocoboFood",
+    "name": "O'Ghomoro Berry",
+    "ffxivGardeningId": 62,
+    "growTime": 2,
+    "wiltTime": null,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      18,
+      23,
+      27,
+      36
+    ]
+  },
+  {
+    "category": "Fruit",
+    "name": "Old World Fig",
+    "ffxivGardeningId": 66,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      3,
+      3,
+      4,
+      6
+    ]
+  },
+  {
+    "category": "Flowerpot",
+    "name": "Oldrose",
+    "ffxivGardeningId": 72,
+    "growTime": 0.041666666666666664,
+    "wiltTime": null,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      2
+    ]
+  },
+  {
+    "category": "Vegetable",
+    "name": "Olive",
+    "ffxivGardeningId": 7,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      12,
+      15,
+      18,
+      24
+    ]
+  },
+  {
+    "category": "Minion",
+    "name": "Onion Prince",
+    "ffxivGardeningId": 52,
+    "growTime": 7,
+    "wiltTime": 24,
+    "seedYield": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "category": "ChocoboFood",
+    "name": "Pahsana Fruit",
+    "ffxivGardeningId": 33,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      1,
+      3,
+      5,
+      9
+    ],
+    "cropYield": [
+      9,
+      11,
+      13,
+      18
+    ]
+  },
+  {
+    "category": "Vegetable",
+    "name": "Paprika",
+    "ffxivGardeningId": 3,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      1,
+      4,
+      6,
+      12
+    ],
+    "cropYield": [
+      12,
+      15,
+      18,
+      24
+    ]
+  },
+  {
+    "category": "HerbAndNut",
+    "name": "Pearl Ginger Root",
+    "ffxivGardeningId": 56,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      1,
+      4,
+      6,
+      12
+    ],
+    "cropYield": [
+      12,
+      15,
+      18,
+      24
+    ]
+  },
+  {
+    "category": "DeluxeHerbAndNut",
+    "name": "Pearl Roselle",
+    "ffxivGardeningId": 37,
+    "growTime": 6,
+    "wiltTime": 36,
+    "seedYield": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "category": "Vegetable",
+    "name": "Pearl Sprout",
+    "ffxivGardeningId": 68,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      3,
+      3,
+      4,
+      6
+    ]
+  },
+  {
+    "category": "Fruit",
+    "name": "Pixie Plum",
+    "ffxivGardeningId": 12,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      1,
+      4,
+      6,
+      12
+    ],
+    "cropYield": [
+      12,
+      15,
+      18,
+      24
+    ]
+  },
+  {
+    "category": "Vegetable",
+    "name": "Popoto Set",
+    "ffxivGardeningId": 53,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      1,
+      4,
+      6,
+      12
+    ],
+    "cropYield": [
+      12,
+      15,
+      18,
+      24
+    ]
+  },
+  {
+    "category": "Fruit",
+    "name": "Prickly Pineapple",
+    "ffxivGardeningId": 27,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      1,
+      4,
+      6,
+      12
+    ],
+    "cropYield": [
+      12,
+      15,
+      18,
+      24
+    ]
+  },
+  {
+    "category": "Fruit",
+    "name": "Rolanberry",
+    "ffxivGardeningId": 24,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      1,
+      4,
+      6,
+      12
+    ],
+    "cropYield": [
+      12,
+      15,
+      18,
+      24
+    ]
+  },
+  {
+    "category": "DeluxeVegetable",
+    "name": "Royal Fern",
+    "ffxivGardeningId": 85,
+    "growTime": 5,
+    "wiltTime": 24,
+    "seedYield": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      2
+    ]
+  },
+  {
+    "category": "DeluxeFruit",
+    "name": "Royal Kukuru",
+    "ffxivGardeningId": 29,
+    "growTime": 6,
+    "wiltTime": 36,
+    "seedYield": [
+      1,
+      2,
+      3,
+      5
+    ],
+    "cropYield": [
+      5,
+      6,
+      7,
+      10
+    ]
+  },
+  {
+    "category": "Flowerpot",
+    "name": "Shroud Cherry",
+    "ffxivGardeningId": 81,
+    "growTime": 0.041666666666666664,
+    "wiltTime": null,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      2
+    ]
+  },
+  {
+    "category": "DeluxeHerbAndNut",
+    "name": "Shroud Tea",
+    "ffxivGardeningId": 30,
+    "growTime": 6,
+    "wiltTime": 36,
+    "seedYield": [
+      1,
+      2,
+      3,
+      5
+    ],
+    "cropYield": [
+      5,
+      6,
+      7,
+      10
+    ]
+  },
+  {
+    "category": "DeluxeHerbAndNut",
+    "name": "Star Anise",
+    "ffxivGardeningId": 35,
+    "growTime": 6,
+    "wiltTime": 36,
+    "seedYield": [
+      1,
+      2,
+      3,
+      5
+    ],
+    "cropYield": [
+      5,
+      6,
+      7,
+      10
+    ]
+  },
+  {
+    "category": "Fruit",
+    "name": "Sun Lemon",
+    "ffxivGardeningId": 10,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      1,
+      4,
+      6,
+      12
+    ],
+    "cropYield": [
+      12,
+      15,
+      18,
+      24
+    ]
+  },
+  {
+    "category": "ChocoboFood",
+    "name": "Sylkis Bud",
+    "ffxivGardeningId": 38,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      1,
+      3,
+      5,
+      9
+    ],
+    "cropYield": [
+      9,
+      11,
+      13,
+      18
+    ]
+  },
+  {
+    "category": "ChocoboFood",
+    "name": "Tantalplant",
+    "ffxivGardeningId": 39,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      1,
+      3,
+      5,
+      9
+    ],
+    "cropYield": [
+      9,
+      11,
+      13,
+      18
+    ]
+  },
+  {
+    "category": "ChocoboFood",
+    "name": "Thavnairian Onion",
+    "ffxivGardeningId": 46,
+    "growTime": 10,
+    "wiltTime": 24,
+    "seedYield": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "category": "Minion",
+    "name": "Tomato King",
+    "ffxivGardeningId": 50,
+    "growTime": 7,
+    "wiltTime": 24,
+    "seedYield": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "category": "Flowerpot",
+    "name": "Triteleia",
+    "ffxivGardeningId": 97,
+    "growTime": 0.041666666666666664,
+    "wiltTime": null,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      2
+    ]
+  },
+  {
+    "category": "Flowerpot",
+    "name": "Tulip",
+    "ffxivGardeningId": 86,
+    "growTime": 0.041666666666666664,
+    "wiltTime": null,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      2
+    ]
+  },
+  {
+    "category": "DeluxeFruit",
+    "name": "Umbrella Fig",
+    "ffxivGardeningId": 48,
+    "growTime": 7,
+    "wiltTime": 24,
+    "seedYield": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "category": "ChocoboFood",
+    "name": "Valfruit",
+    "ffxivGardeningId": 61,
+    "growTime": 2,
+    "wiltTime": null,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      18,
+      23,
+      27,
+      36
+    ]
+  },
+  {
+    "category": "Flowerpot",
+    "name": "Viola",
+    "ffxivGardeningId": 79,
+    "growTime": 0.041666666666666664,
+    "wiltTime": null,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      1,
+      1,
+      1,
+      2
+    ]
+  },
+  {
+    "category": "HerbAndNut",
+    "name": "Voidrake",
+    "ffxivGardeningId": 71,
+    "growTime": 0.5416666666666666,
+    "wiltTime": null,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      2,
+      2,
+      3,
+      3
+    ]
+  },
+  {
+    "category": "Elemental",
+    "name": "Waterlight",
+    "ffxivGardeningId": 78,
+    "growTime": 0.75,
+    "wiltTime": null,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      50,
+      65,
+      75,
+      100
+    ]
+  },
+  {
+    "category": "Vegetable",
+    "name": "Wild Onion Set",
+    "ffxivGardeningId": 57,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      12,
+      15,
+      18,
+      24
+    ]
+  },
+  {
+    "category": "Elemental",
+    "name": "Windlight",
+    "ffxivGardeningId": 75,
+    "growTime": 0.75,
+    "wiltTime": null,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      50,
+      65,
+      75,
+      100
+    ]
+  },
+  {
+    "category": "Vegetable",
+    "name": "Wizard Eggplant",
+    "ffxivGardeningId": 16,
+    "growTime": 5,
+    "wiltTime": 48,
+    "seedYield": [
+      1,
+      4,
+      6,
+      12
+    ],
+    "cropYield": [
+      12,
+      15,
+      18,
+      24
+    ]
+  },
+  {
+    "category": "ChocoboFood",
+    "name": "Xelphatol Apple",
+    "ffxivGardeningId": 58,
+    "growTime": 2,
+    "wiltTime": null,
+    "seedYield": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cropYield": [
+      18,
+      23,
+      27,
+      36
+    ]
+  }
+]

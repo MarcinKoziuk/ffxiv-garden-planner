@@ -1,0 +1,99 @@
+.garden-patch-cell {
+    display: grid;
+    padding: .25rem;
+    background-color: var(--main-bg-color);
+}
+
+.garden-patch-deluxe.garden-patch-cell,
+.garden-patch-round.garden-patch-cell {
+    aspect-ratio: 1;
+}
+
+.garden-patch-oblong.garden-patch-cell {
+    aspect-ratio: 3/2;
+}
+
+.garden-patch-deluxe {
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.garden-patch-oblong {
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.garden-patch-round {
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.seed {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    aspect-ratio: 1;
+    padding: 2px;
+}
+
+.seed-button {
+    width: 100%;
+    height: 100%;
+    background: #231e1b;
+    padding: 0;
+    cursor: pointer;
+    border: 2px solid #131111;
+    border-radius: 4px;
+    box-shadow: inset 0 0 15px 5px rgba(0, 0, 0, 0.15);
+
+
+    font-family: var(--default-font);
+    text-shadow: 2px 2px 2px black, -1px -1px 2px black;
+
+}
+
+.seed-button.with-image {
+    box-shadow: inset 0 2px 3px rgba(255, 255, 255, 0.35), inset 0 -2px 3px rgba(0, 0, 0, 0.5);
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.seed-button:hover {
+    background-color: #2d2a26;
+}
+
+.seed-button.with-image:hover {
+    filter: brightness(100%) contrast(120%);
+}
+
+
+.seed-button img {
+    width: 100%;
+    height: 100%;
+}
+
+.cell-mini-icons {
+    position: absolute;
+    z-index: 1;
+    display: flex;
+    pointer-events: none;
+}
+
+.cell-mini-icons.cross-mini-icons {
+    top: .35rem;
+    left: .35rem;
+}
+
+.cell-mini-icons.topsoil-mini-icons {
+    bottom: .15rem;
+    right: .35rem;
+}
+
+.cell-mini-icon img {
+    border: 1px solid #131111;
+    border-radius: 4px;
+    width: 24px;
+    height: 24px;
+    margin-right: 2px;
+    box-shadow: 1px 1px 2px 2px rgba(0, 0, 0, 0.1);
+}

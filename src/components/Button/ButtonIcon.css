@@ -1,0 +1,74 @@
+:root {
+    --buttonicon-default-color: #80d7ff;
+    --buttonicon-primary-color: var(--active-color);
+    --buttonicon-danger-color: #cb0000;
+}
+
+.buttonicon-set {
+    display: flex;
+    justify-items: center;
+    height: 100%;
+    max-height: 50px;
+}
+
+.buttonicon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background: #454545;
+    border: none;
+    cursor: pointer;
+    padding: .5rem .75rem;
+    font-family: var(--default-font);
+    font-size: 14px;
+    font-weight: 500;
+    white-space: nowrap;
+
+    transition: color .1s ease-in-out,
+        background-color .1s ease-in-out,
+        border-color .1s ease-in-out,
+        box-shadow .2s ease-in-out;
+}
+
+
+.buttonicon:not(:first-child) {
+    border-left: 1px solid var(--main-bg-color-alt3);
+}
+.buttonicon:not(:last-child) {
+    border-right: 1px solid var(--main-bg-color-alt3);
+}
+
+.buttonicon.default {
+    color: var(--buttonicon-default-color);
+}
+.buttonicon.default:hover {
+    color: black;
+    background-color: var(--buttonicon-default-color);
+}
+
+.buttonicon.primary {
+    color: var(--buttonicon-primary-color);
+}
+.buttonicon.primary:hover {
+    color: black;
+    background-color: var(--buttonicon-primary-color);
+}
+
+.buttonicon.danger {
+    color: var(--buttonicon-danger-color);
+}
+.buttonicon.danger:hover {
+    color: black;
+    background-color: var(--buttonicon-danger-color);
+}
+
+.buttonicon svg {
+    margin-top: 2px;
+    height: 19px;
+    width: 19px;
+}
+
+.buttonicon.with-content svg {
+    margin-right: .5rem;
+}

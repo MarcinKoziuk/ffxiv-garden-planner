@@ -1,0 +1,46 @@
+.breadcrumbs {
+    margin: 0;
+    padding: .5rem;
+    list-style: none;
+    display: flex;
+}
+
+.breadcrumbs li {
+    font-size: 90%;
+    color: white;
+    vertical-align: bottom;
+}
+
+.breadcrumbs li span,
+.breadcrumbs li a {
+    display: inline-block;
+    color: white;
+    min-height: 1em;
+    vertical-align: center;
+}
+
+.breadcrumbs li span {
+    padding: .25em .5em;
+    font-weight: 500;
+}
+
+.breadcrumbs li a {
+    padding: .25em .5em;
+    background-color: #343434;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.breadcrumbs li.active {
+    font-weight: 400;
+}
+
+.breadcrumbs li a:hover {
+    text-decoration: underline;
+}
+
+.breadcrumbs li+li:before {
+    padding: .25em;
+    color: grey;
+    content: "»";
+}

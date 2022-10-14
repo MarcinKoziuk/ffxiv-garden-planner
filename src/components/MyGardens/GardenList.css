@@ -1,0 +1,11 @@
+.garden-list {
+    margin: -2px .5rem 0;
+}
+
+@media screen and (max-width: 767px) {
+    .garden-list {
+        display: flex;
+        flex-direction: column;
+        margin-top: .5rem;
+    }
+}

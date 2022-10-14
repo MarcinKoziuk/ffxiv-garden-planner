@@ -1,0 +1,14 @@
+.dialog.garden-patch-cell-popup {
+    width: min(95vw, 600px);
+}
+
+.choose-button-wrapper {
+    display: flex;
+    padding: .5rem;
+}
+.choose-button-wrapper button {
+    flex-grow: 1;
+}
+.choose-button-wrapper button:not(:first-child) {
+    margin-left: .25rem;
+}

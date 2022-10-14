@@ -1,0 +1,147 @@
+:root {
+    --button-default-color: #dddddd;
+    --button-default-hover-color: #e9e9e9;
+    --button-default-focus-outline-color:  rgba(208, 208, 208, 0.5);
+
+    --button-primary-color: var(--active-color);
+    --button-primary-hover-color: var(--active-color-hover);
+    --button-primary-focus-outline-color: var(--active-color-a5);
+    --button-danger-color: #e50000;
+    --button-danger-hover-color: #c80000;
+    --button-danger-focus-outline-color: rgba(203, 0, 0, 0.5);
+}
+
+.button-set.with-border {
+    border-top: 2px solid #3e3e3e;
+    padding-top: 1rem;
+    margin-top: .5rem;
+}
+
+@media screen and (max-width: 767px) {
+    .button-set {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .button-set .button:not(:last-child) {
+        margin-bottom: .75rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .button-set {
+        display: block;
+    }
+    .button-set .button:not(:last-child) {
+        margin-right: .75rem;
+    }
+}
+
+.button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: .75em 1.1em .7em;
+    border: 1px solid transparent;
+    border-radius: 6px;
+    min-width: 5em;
+    font-family: var(--default-font);
+    font-size: var(--button-font-size);
+    font-weight: 500;
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+    vertical-align: bottom;
+    white-space: nowrap;
+    line-height: 1;
+
+    transition: color .1s ease-in-out,
+        background-color .1s ease-in-out,
+        border-color .1s ease-in-out,
+        box-shadow .2s ease-in-out;
+}
+
+.button svg {
+    display: inline-flex;
+    vertical-align: top;
+    height: 1em;
+    width: 1em;
+    margin-top: 0;
+    margin-right: .4em;
+}
+
+.button.default {
+    color: black;
+    border-color: var(--button-default-color);
+    background-color: var(--button-default-color);
+}
+.button.default:hover {
+    border-color: var(--button-default-hover-color);
+    background-color: var(--button-default-hover-color);
+}
+.button.default:focus,
+.button.outline-default:focus {
+    box-shadow: 0 0 0 .25rem var(--button-default-focus-outline-color)
+}
+
+.button.primary {
+    color: black;
+    border-color: var(--button-primary-color);
+    background-color: var(--button-primary-color);
+}
+.button.primary:hover {
+    border-color: var(--button-primary-hover-color);
+    background-color: var(--button-primary-hover-color);
+}
+.button.primary:focus,
+.button.outline-primary:focus {
+    box-shadow: 0 0 0 .25rem var(--button-primary-focus-outline-color)
+}
+
+.button.danger {
+    color: black;
+    border-color: var(--button-danger-color);
+    background-color: var(--button-danger-color);
+}
+.button.danger:hover {
+    border-color: var(--button-danger-hover-color);
+    background-color: var(--button-danger-hover-color);
+}
+.button.danger:focus,
+.button.outline-danger:focus {
+    box-shadow: 0 0 0 .25rem var(--button-danger-focus-outline-color)
+}
+
+.button.outline-primary {
+    color: var(--button-primary-color);
+    border-color: var(--button-primary-color);
+    background-color: transparent;
+}
+.button.outline-primary:hover {
+    color: black;
+    border-color: var(--button-primary-hover-color);
+    background-color: var(--button-primary-hover-color);
+}
+
+.button.outline-default {
+    color: var(--button-default-color);
+    border-color: var(--button-default-color);
+    background-color: transparent;
+}
+.button.outline-default:hover {
+    color: black;
+    border-color: var(--button-default-hover-color);
+    background-color: var(--button-default-hover-color);
+}
+
+.button.outline-danger {
+    color: var(--button-danger-color);
+    border-color: var(--button-danger-color);
+    background-color: transparent;
+}
+.button.outline-danger:hover {
+    color: black;
+    border-color: var(--button-danger-hover-color);
+    background-color: var(--button-danger-hover-color);
+}
+

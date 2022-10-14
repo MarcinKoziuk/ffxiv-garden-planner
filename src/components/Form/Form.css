@@ -1,0 +1,39 @@
+.form {
+    border: 2px solid var(--main-bg-color-alt3);
+    box-shadow: 2px 0 7px 0 rgba(0, 0, 0, 0.15);
+}
+
+.form-row {
+    display: block;
+}
+
+.form-row label {
+    display: block;
+    padding-bottom: .5em;
+    font-weight: 500;
+    font-size: 90%;
+}
+
+.form-actions {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.form-actions > .button {
+    margin-left: .5rem;
+}
+
+
+input.form-input[type=text],
+input.form-input[type=search],
+select.form-input {
+    font-family: var(--default-font);
+    font-size: var(--default-font-size);
+    padding: .5em .75em;
+    border-radius: 5px;
+    border: none;
+}
+
+.form-input.large {
+    width: min(25rem, 100%);
+}

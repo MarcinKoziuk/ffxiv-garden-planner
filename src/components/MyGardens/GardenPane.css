@@ -1,0 +1,58 @@
+:root {
+    --patch-min-size: 220px;
+    --patch-max-size: 250px;
+}
+
+.garden-grid {
+    display: grid;
+    background-color: var(--main-bg-color-alt3);
+    grid-gap: 2px;
+    padding: 0;
+}
+
+.garden-pane {
+    display: table;
+    clear: both;
+    width: auto;
+    max-width: 100%;
+}
+
+@media screen and (max-width: 649px) {
+    .garden-pane {
+        width: min(100%, var(--patch-max-size));
+        align-self: center;
+    }
+}
+
+@media screen and (max-width: 649px) {
+    .garden-pane.n-3 .garden-grid,
+    .garden-pane.n-2 .garden-grid,
+    .garden-pane.n-1 .garden-grid {
+        grid-template-columns: minmax(var(--patch-min-size), var(--patch-max-size));
+    }
+    .garden-pane {
+        width: min(100%, var(--patch-max-size))
+    }
+}
+
+@media screen and (min-width: 650px) {
+    .garden-pane.n-3 .garden-grid,
+    .garden-pane.n-2 .garden-grid {
+        grid-template-columns: repeat(2, minmax(var(--patch-min-size), var(--patch-max-size)));
+    }
+    .garden-pane.n-1 .garden-grid {
+        grid-template-columns: minmax(var(--patch-min-size), var(--patch-max-size));
+    }
+}
+
+@media screen and (min-width: 720px) {
+    .garden-pane.n-3 .garden-grid {
+        grid-template-columns: repeat(3, minmax(var(--patch-min-size), var(--patch-max-size)));
+    }
+    .garden-pane.n-2 .garden-grid {
+        grid-template-columns: repeat(2, minmax(var(--patch-min-size), var(--patch-max-size)));
+    }
+    .garden-pane.n-1 .garden-grid {
+        grid-template-columns: repeat(1, minmax(var(--patch-min-size), var(--patch-max-size)));
+    }
+}
