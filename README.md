@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# FFXIV Garden Planner
+
+Responsive web app to plan gardens in Final Fantasy XIV. Work in progress.
+
+Current features:
+- Set up your in-game gardens in the app
+- Find possible seeds
+- Find possible seed crosses
+- Estimate yields & garden plan sustainability
+
+![](https://repository-images.githubusercontent.com/551524401/80b13c62-32b6-4817-81fb-7c36b174fc4e)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
