@@ -44,7 +44,7 @@ const SeedCell: FC<{ seedIndex: number }> = ({ seedIndex }) => {
         setSeed(patchIndex, seedIndex, seedId)
     }
     const handleChooseTopsoil = (topsoilId: TopsoilId | null) => {
-        setTopsoil(patchIndex, seedIndex, seedId)
+        setTopsoil(patchIndex, seedIndex, topsoilId)
     }
 
     const isInitialEntry = useRef(false);
