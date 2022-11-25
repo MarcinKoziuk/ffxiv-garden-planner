@@ -93,8 +93,7 @@ export function createEntityRepository<T extends Identifiable<I>,
         }))
     }
 
-    // @ts-ignore
-    const emptyRecord: Record<I, T> = {}
+    const emptyRecord: Record<I, T> = {} as Record<I, T>
     
     return {
         ids: [],

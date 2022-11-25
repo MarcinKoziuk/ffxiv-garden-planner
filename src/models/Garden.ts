@@ -16,7 +16,11 @@ export interface Garden extends Identifiable<SUUID> {
     defaultTopsoil: TopsoilId | null
 }
 
+/**
+ * Returns possible indices for the garden patch according to house size.
+ * @example a garden with houseSize 3 returns [ 0, 1, 2 ]
+ * @param garden the garden
+ */
 export function getPatchIndices(garden: Garden): number[] {
-    // @ts-ignore
-    return [...(Array(garden.houseSize).keys())];
+    return new Array(garden.houseSize).fill(0).map((_, i) => i)
 }
